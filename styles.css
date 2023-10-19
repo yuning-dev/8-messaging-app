@@ -1,0 +1,27 @@
+.wrapper {}
+
+#messageList {
+    margin: auto;
+    width: 300px;
+    height: 600px;
+    border: 1px solid lightgrey;
+    display: flex;
+    flex-direction: column;
+}
+
+.verticalFiller {
+    height: 100%;
+}
+
+.message {
+    margin: 5px 10px;
+}
+
+.activeUserMessage {
+    color: blue;
+    text-align: right;
+}
+
+.otherUserMessage {
+
+}
