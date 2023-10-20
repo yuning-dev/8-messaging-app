@@ -17,6 +17,12 @@
     margin: 5px 10px;
 }
 
+#message {
+    display: block;
+    margin: auto;
+    width: 295px;
+}
+
 .activeUserMessage {
     color: blue;
     text-align: right;
